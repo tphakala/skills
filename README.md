@@ -1,4 +1,4 @@
-# AI Skills
+# Skills
 
 A collection of portable [Agent Skills](https://agentskills.io) for AI coding assistants.
 
@@ -15,7 +15,7 @@ These skills follow the open [Agent Skills specification](https://agentskills.io
 ### Claude Code
 
 ```bash
-claude install-skill /path/to/ai-skills/owasp-security-review
+claude install-skill /path/to/skills/owasp-security-review
 ```
 
 Or copy the skill directory to `~/.claude/skills/`.
